@@ -1,1 +1,1 @@
-Short description of the project - Kept this one pretty similar to the example but changed the shape of the nose to represent pinocchio.
+Short description of the project - Used a jpg of a cat and had it fill out the screen by changing the values.
