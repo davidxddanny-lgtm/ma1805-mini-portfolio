@@ -1,0 +1,1 @@
+Short description of the project - Kept this one pretty similar to the example but changed the shape of the nose to represent pinocchio.
